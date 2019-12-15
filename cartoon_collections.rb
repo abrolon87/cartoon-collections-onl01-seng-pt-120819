@@ -4,7 +4,7 @@ def roll_call_dwarves(dwarves)# code an argument here
     puts dwarves[i].each_with_index
     i += 1
   end
-  puts i # Your code here
+  return dwarves # Your code here
 
 
 end
